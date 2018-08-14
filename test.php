@@ -1,1 +1,3 @@
-ljdsad'ksadlksal
+<?php
+phpinfo();
+?>
